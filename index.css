@@ -1,4 +1,11 @@
+.avatars img {
+  width: auto;
+  height: 250pt;
+}
+.avatars a {
+  text-decoration: none;
+}
 .shaders img {
   width: auto;
-  height: 300px;
+  height: 200pt;
 }
